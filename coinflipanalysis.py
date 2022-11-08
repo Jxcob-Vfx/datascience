@@ -52,6 +52,6 @@ if values % 2 == int(0):
   elif tails > heads:
     drift = median - heads
     # print drift from median to user with f string (f"{drift}")
-   print(f"Drift from median: {drift}")
+    print(f"Drift from median: {drift}")
 else:
   print("Unable to calculate drift because specified value not even")
