@@ -1,2 +1,2 @@
-# Pseudorandom Data Analysis
-This repository contains any projects I do relating to pseudorandom number generation.
+# Data Analysis
+This repository contains any projects I do relating to data science and analysis.
